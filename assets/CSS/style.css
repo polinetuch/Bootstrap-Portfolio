@@ -1,11 +1,6 @@
-.navbar {
-  height: 10%;
+.fixed-top {
+  margin-top: 10px;
   margin-bottom: 10px;
-}
-
-.navbar-brand {
-  background-color: #4aaaa5;
-  padding: px;
 }
 
 h1 {
@@ -24,7 +19,8 @@ h1 {
   padding-top: 50px;
 }
 .row {
-  margin: 30px;
+  margin: 35px;
+  padding: 10px;
 }
 
 .content {
@@ -43,10 +39,11 @@ h1 {
   background-color: #4aaaa5;
   padding: 4px;
   margin-bottom: 0px;
+  font-size: 20px;
 }
 
 .bd-brand-item-inverse {
   background-color: #4aaaa5;
-  padding: 20px;
+  padding: 10px;
   color: whitesmoke;
 }
