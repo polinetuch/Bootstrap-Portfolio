@@ -1,0 +1,52 @@
+.navbar {
+  height: 10%;
+  margin-bottom: 10px;
+}
+
+.navbar-brand {
+  background-color: #4aaaa5;
+  padding: px;
+}
+
+h1 {
+  padding: 10px;
+  padding-top: 10px;
+  font-size: 30px;
+  color: #4aaaa5;
+  font-weight: bold;
+  width: 20%;
+  text-align: center;
+  text-align: left;
+}
+
+.body {
+  background: url("../images/pattern.png");
+  padding-top: 50px;
+}
+.row {
+  margin: 30px;
+}
+
+.content {
+  background: white;
+}
+
+.footer {
+  width: 100%;
+  padding: 40px;
+  background-color: grey;
+  color: white;
+  text-align: center;
+}
+
+.hr {
+  background-color: #4aaaa5;
+  padding: 4px;
+  margin-bottom: 0px;
+}
+
+.bd-brand-item-inverse {
+  background-color: #4aaaa5;
+  padding: 20px;
+  color: whitesmoke;
+}
