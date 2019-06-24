@@ -47,3 +47,10 @@ h1 {
   padding: 10px;
   color: whitesmoke;
 }
+
+.image {
+  float: left;
+  width: 200px;
+  margin-top: 10px;
+  margin-right: 25px;
+}
